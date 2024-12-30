@@ -13,6 +13,8 @@ There were turns, delays and diversions from the original plan but here are some
   We printed our memes from IG stories and made installation on a semi-private room but the main show was in IG stories of PinkHouse Space
   ![Content](https://archive.kolown.net/wp-content/uploads/2024/12/fco1.jpg)
 
+  photo by Pinkhouse
+
  ---
 - ## ***Transmission***
    February / Manila / ALT Fair - The Drawing Room
@@ -31,7 +33,7 @@ There were turns, delays and diversions from the original plan but here are some
 
   This is a continuation of the series started in 2022. It is a data gathering project. 
   ![Proof of Work](https://scontent.fmnl5-2.fna.fbcdn.net/v/t39.30808-6/454233297_18452141515055764_7541122934900213673_n.jpg?stp=dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeG-AtcgdeNQuZxhPrVD8u-O1Dpcpa-3KOPUOlylr7co4yaYMTFwaVG-bVqbwk56qZRNkSdQeR7d_u4jVSB81wTa&_nc_ohc=mO7131KEWWcQ7kNvgHixpCq&_nc_zt=23&_nc_ht=scontent.fmnl5-2.fna&_nc_gid=AKR1brKFryo0jjS7nPom_To&oh=00_AYBrhv022drUSrQMjS4JkVjMUfi6SK8ILqW4p8HTYS1dPQ&oe=677887B1)
-  
+
   photo by Anne Amores
  
   ---
