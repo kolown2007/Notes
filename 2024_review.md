@@ -49,6 +49,7 @@ There were turns, delays and diversions from the original plan but here are some
   Audiences can use their own smartphones to control the installation. 
   The project prompts us to question the roles of the human laborers performing menial tasks  and the AI performing intellectual tasks in the virtual world. It asks us to consider who are the ghosts and who are the machines in this digital age.
   photo by Leeum Museum of Art
+  special thanks to Drawing Room Gallery
 
  ---
 - ## ***GhostWriter***
