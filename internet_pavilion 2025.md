@@ -12,3 +12,9 @@ For the 2025 iteration, we will explore:
 - Continuing the web-based/screen-based internet works and their optimization.
 - Exploring the question: How can we interact with the internet without smartphones and browsers?
 
+2025 projects:
+
+- parallel time/ climaglow by Rhaz Oriente: https://github.com/kolown2007/climaglow
+- boolean garden remix by Nice Buenaventura: https://github.com/kolown2007/booleangarden
+- 
+
