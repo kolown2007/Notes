@@ -1,2 +1,0 @@
-- Post Vandalism considers the relationship between public space and the act of destruction, both materially and conceptually. Bringing together a wide range of mediums, including painting, sculpture, and film, the exhibition underscores the conscious engagement of these artists to - https://www.artsy.net/show/omni-post-vandalism/info
-- 

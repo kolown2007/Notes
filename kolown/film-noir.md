@@ -1,2 +1,0 @@
--  Film noir of this era is associated with a [low-key](https://en.wikipedia.org/wiki/Low-key_lighting "Low-key lighting"), [black-and-white](https://en.wikipedia.org/wiki/Black-and-white "Black-and-white") visual style that has roots in [German expressionist cinematography](https://en.wikipedia.org/wiki/German_expressionist_cinema "German expressionist cinema").
-- 
