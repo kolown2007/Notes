@@ -1,0 +1,3 @@
+
+**Posthuman** or **post-human** is a concept originating in the fields of [science fiction](https://en.wikipedia.org/wiki/Science_fiction "Science fiction"), [futurology](https://en.wikipedia.org/wiki/Futurology "Futurology"), [contemporary art](https://en.wikipedia.org/wiki/Contemporary_art "Contemporary art"), and [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy") that means a person or entity that exists in a state beyond being human.[[1]](https://en.wikipedia.org/wiki/Posthuman#cite_note-1) The concept aims at addressing a variety of questions, including ethics and justice, language and trans-species communication, social systems, and the intellectual aspirations of interdisciplinarity.
+
