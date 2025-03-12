@@ -20,7 +20,7 @@ For the 2025 iteration, we are exploring:
 
 - In a future global AI apocalypse, how do we send memes?
 
-- we would also want to explore that each work is an "node" of the network and connects to the other collaborators.
+- we would also want to explore that each work is a "node" of the network and connects to the other collaborators.
 
 - we want to explore also of the concept of digital likeness! 
 
@@ -35,7 +35,8 @@ For the 2025 iteration, we are exploring:
 
 --------------------------------------------------------------------------
 
-This document is a work in progress!!!
+This document is a work in progress!!! 
+If you have a github you can also edit this!
 
 
 
