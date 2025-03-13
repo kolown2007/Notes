@@ -38,6 +38,12 @@ For the 2025 iteration, we are exploring:
 This document is a work in progress!!! 
 If you have a github you can also edit this!
 
+-------------------------------------
+
+Related Literature / projects
+
+- https://www.e-flux.com/directory/73482/internet-pavilion-at-the-venice-biennale/
+
 
 
 
