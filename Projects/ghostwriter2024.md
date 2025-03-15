@@ -1,7 +1,4 @@
----
-title: GhostWriter 2024
-featureimage: https://archive.kolown.net/wp-content/uploads/2024/02/p1sonet-1-1024x577.png
----
+
 
 **GhostWriter2024** is an installation composed of real-time web application that creates fake stories based on current events. The app grabs current headlines from Philippine news sites and then using the Large language model GPT4, it creates a sci-fi story and it is projected on the screen.
 
