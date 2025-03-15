@@ -2,19 +2,19 @@
   "projects": [
     {
       "title": "404",
-      "featureimage": "https://archive.kolown.net/wp-content/uploads/2024/02/p1sonet-1-1024x577.png"
+      "featureimage": "https://archive.kolown.net/wp-content/uploads/2024/02/p1sonet-1-1024x577.png",
+      "url": "/notes/404.md"
     },
     {
-      "title": "Project 2",
-      "featureimage": "https://archive.kolown.net/wp-content/uploads/2024/02/p1sonet-1-1024x577.png"
+      "title": "Low Pressured Areas",
+      "featureimage": "https://archive.kolown.net/wp-content/uploads/2024/10/lpa2.jpg",
+        "url": "/notes/404.md"
     },
     {
-      "title": "Project 3",
-      "featureimage": "https://archive.kolown.net/wp-content/uploads/2024/02/p1sonet-1-1024x577.png"
-    },
-    {
-      "title": "Project 4",
-      "featureimage": "https://archive.kolown.net/wp-content/uploads/2024/02/p1sonet-1-1024x577.png"
+      "title": "GhostWriter",
+      "featureimage": "https://archive.kolown.net//wp-content/uploads/2024/12/ghostwriter2.jpg",
+        "url": "/notes/404.md"
     }
+   
   ]
 }
