@@ -21,7 +21,7 @@ Franco Mamaril, based in Laguna, PH, is a graffiti writer, VJ, video, and new me
 
 Salawaki is a digital artists working on 3d, NFTs, and the broad internet. She lives in between Siquijor and Davao. She co-founded Internet Pavilion PH Islands in 2020.
 
-Jellyfish Invasion by Jellyfish Kisses features one of her soft sculptures presented first presented in 2020 Art Fair PH Special projects. The soft sculpture is scanned in 2025 by Bbbb. 
+**Jellyfish Invasion** by Jellyfish Kisses features one of her soft sculptures presented first presented in 2020 Art Fair PH Special projects. The soft sculpture is scanned in 2025 by Bbbb. 
 
 Jellyfish Invasion by Jellyfish Kisses features one of her soft sculptures, first presented at the 2020 Art Fair PH Special Projects. The soft sculpture was scanned in 2025 by Bbbb.
 
