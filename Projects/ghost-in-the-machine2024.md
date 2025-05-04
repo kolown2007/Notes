@@ -3,14 +3,15 @@ The work features 30 plus smartphones affixed to the walls, their wires conspicu
 This serves as a metaphor for global connectivity, underscoring the dual role of our devices as tools for connection and a potential sources of harm.   Furthermore, the project prompts us to question the roles of the human laborers performing menial tasks and the AI performing intellectual tasks in the virtual world. It asks us to consider who are the ghosts and who are the machines in this digital age.
 
 ----
-**2024 Art Spectrum**  
-**_Dream Screen_**  
+2024 Art Spectrum  
+Dream Screen 
 September 5–December 29, 2024
 
-**Artistic Director:** Rirkrit Tiravanija  
-**Curators:** Hyo Gyoung Jeon (Curator, Leeum Museum of Art), Jiwon Yu (Guest Curator)
+Artistic Director:Rirkrit Tiravanija  
+Curators: Hyo Gyoung Jeon (Curator, Leeum Museum of Art), Jiwon Yu (Guest Curator)
 
 ---
+
 https://www.e-flux.com/announcements/620764/2024-art-spectrumdream-screen/
 https://news.artnet.com/art-world/dream-screen-leeum-2577825
 
