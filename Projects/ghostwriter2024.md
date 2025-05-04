@@ -4,6 +4,14 @@ On the other screen the audience can submit words that can influence the fiction
 The work is a response to the proliferation of fake news, the possible impact of AI in our lives. The sources came from real-time news headlines.
 The work is inspired on how we sometimes consume news based on headlines without reading the whole article and how some news sources create click-baity headlines that are sometimes far from its content.
 
+----
+AAA Return Show
+Ateneo Art Gallery
+Nov 2024 - March 2025
+
+____
+
+
 ![IRL](https://archive.kolown.net//wp-content/uploads/2024/12/ghostwriter1.jpg)
 
 ![IRL](https://archive.kolown.net//wp-content/uploads/2024/12/ghostwriter2.jpg)

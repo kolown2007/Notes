@@ -10,3 +10,6 @@ In this project we will use
 - **ESP32**, 
 - **Max98357 12S Audio Amplifier**, 
 - **horn speaker**
+
+arduino horn speaker setup
+https://www.youtube.com/watch?v=K8-GgakdvCM
