@@ -5,10 +5,12 @@ This serves as a metaphor for global connectivity, underscoring the dual role of
 ----
 2024 Art Spectrum  
 Dream Screen 
-September 5–December 29, 2024
+September 5 - December 29, 2024
+Leeum Museum of Art
+Seoul South Korea
 
-Artistic Director:Rirkrit Tiravanija  
-Curators: Hyo Gyoung Jeon (Curator, Leeum Museum of Art), Jiwon Yu (Guest Curator)
+**Artistic Director**:Rirkrit Tiravanija  
+**Curators**: Hyo Gyoung Jeon (Curator, Leeum Museum of Art), Jiwon Yu (Guest Curator)
 
 ---
 
