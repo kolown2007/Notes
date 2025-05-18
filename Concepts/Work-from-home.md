@@ -27,5 +27,10 @@ WEBGPU video
 https://webgpufundamentals.org/webgpu/lessons/webgpu-textures-external-video.html webgpu texture
 https://playground.babylonjs.com/#ZMCFYA#83 - babylonjs video texture
 
+---
+animation library
+- https://www.theatrejs.com/
+- https://gsap.com/
+---
 
 
