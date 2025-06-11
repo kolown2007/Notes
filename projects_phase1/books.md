@@ -1,0 +1,11 @@
+- the age of earthquakes
+- black transparency the right to know in the age of mass surveillance
+- radical technologies
+- intelligence and spirit
+- aesthetics after finitude
+- the stack on software and sovereignty
+- the mythical man-month
+- the art of doing science and engineering
+- pragmatic thinking and learning
+- software infrastructure labor
+-  https://github.com/Babunashvili/Books-To-Read-Before-You-Die/blob/master/README.md

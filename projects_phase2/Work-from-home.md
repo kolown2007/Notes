@@ -33,4 +33,16 @@ animation library
 - https://gsap.com/
 ---
 
+ **parallax** or **parallax scrolling**.
 
+In both 2D and 3D games, **parallax** refers to the phenomenon where objects that are farther away from the camera move more slowly than objects that are closer, as the camera moves side-to-side (or up/down). This creates a sense of depth and immersion.
+
+
+----
+Frustum culling
+
+-----
+
+**Inspo**
+
+Andrew Wyeth, Wind from the Sea, 1947
