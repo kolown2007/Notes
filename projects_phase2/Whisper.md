@@ -67,3 +67,36 @@ Mozzi
 https://github.com/sensorium/Mozzi
 
 
+----
+1. **Freesound.org** - Huge collection of CC-licensed sound effects and instrument samples [https://freesound.org/](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+2. **Free Music Archive** - Includes individual instrument sounds [https://freemusicarchive.org/](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+3. **SampleSwap** - Free sample packs [https://sampleswap.org/](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+4. **Soundbible** - Simple sound effects [https://soundbible.com/](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+5. **BBC Sound Effects** - High quality sound library [https://sound-effects.bbcrewind.co.uk/](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+
+### For Musical Instrument Sounds:
+
+1. **Virtual Piano Sounds** [https://github.com/gleitz/midi-js-soundfonts](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+2. **University of Iowa Musical Instrument Samples** (academic quality) [https://theremin.mu](vscode-file://vscode-app/c:/Users/Barry/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)
+
+---
+
+query sounds
+
+https://gleitz.github.io/midi-js-soundfonts/FatBoy/accordion-mp3/A0.mp3
+
+----
+MIDI to JSON
+https://tonejs.github.io/Midi/
+
+tonejs instruments
+https://nbrosowsky.github.io/tonejs-instruments/demo.html
+
+audio files
+https://github.com/Tonejs/audio
