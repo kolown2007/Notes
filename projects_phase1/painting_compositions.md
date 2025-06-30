@@ -14,3 +14,5 @@ The Fall of the Rebel Angels
 Saint Michael Fighting the Dragon
 
 ---
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Palermo-trionfo-della-morte-bjs.jpg/1016px-Palermo-trionfo-della-morte-bjs.jpg?20070305213328)
