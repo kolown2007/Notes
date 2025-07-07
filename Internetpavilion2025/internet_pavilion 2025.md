@@ -1,16 +1,21 @@
 
-**ESC Biennale 2025:**
+DRAFT CONCEPT--- **Meta_Purok: ESC Biennale 2025**
 
-Artists and Projects:
+The Internet Pavilion PH 2025 will align with the ESC 2025 curatorial theme of "tambay." In this iteration, we will explore the concept of the "Purok" as a metaphor for online spaces, highlighting how these digital puroks transcend physical barangay boundaries and connect beyond our current locality.
+
+A Purok is an informal division within a barangay, yet it is more formal than a sitio due to its physical purok cottage structure. These structures serve as community centers, community gardens, and reading centers.
+
+We will create a Meta_Purok, a web 3d environment that serves as a front for the projects . So every artists are considered to have a purok but not all are necessarily the same aesthetic. For example Franco and Salawaki could have a full 3d purok but others  could just have a link inside the meta_purok to their 2d and text projects.
+
+Purok Siquijor - Salawakii
+
+Purok San Pedro - Franco Mamaril
 
 **Power Plants** (Luyo Space, Bogo Cebu..Ronyel Compra) -open for collaborators
  - (phase 1 photographing/ documentation and Identifying the plants in the Luyo_space community and  network )
  - collaborates with other individuals/ groups / to determine the medicinal and other uses of that plant. 
  - The web portal can export pdf for print and for identification.
  - Phase 2 - print the pdf as zine and distribute it back to the collaborators. For Esc the project might be until phase 1.
-
-**Meta Sitio** - Salawakii, Siquijor/Davao, 
-   - Salawakii will construct a web-based 3d environment exploring the concept of a Sitio
 
 Gab Ferrer, Dumaguete
  - Gab Ferrer will construct a physical placard and the digital copy will be shown on the web.
@@ -19,15 +24,12 @@ Gab Ferrer, Dumaguete
 **SugalBall**, Tsarlyboy - Laguna
   - will explore a basketball betting game. reflects the Filipinos passion on basketball and the rise of online betting sites.
 
-**Copies** - Icon the Optimist / Bbbb, Manila
-  - They will construct a digital copy of Icon. 
-
 **Iterations Online** - Rhaz Oriente, Manila
   - generative poetry project
 
-Franco Mamaril -Laguna (TBA)
-Juju - Davao (project TBA)
-Roan Alvarez - (TBA)
+Dev Team:
+Roan Alvarez 
+KoloWn
 
 ------
 
