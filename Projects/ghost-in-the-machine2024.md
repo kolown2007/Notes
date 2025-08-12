@@ -11,14 +11,12 @@ Seoul South Korea
 
 **Artistic Director**:Rirkrit Tiravanija  
 **Curators**: Hyo Gyoung Jeon (Curator, Leeum Museum of Art), Jiwon Yu (Guest Curator)
-
 ---
-
 https://www.e-flux.com/announcements/620764/2024-art-spectrumdream-screen/
 https://news.artnet.com/art-world/dream-screen-leeum-2577825
 
 
-![IRL](https://archive.kolown.net/wp-content/uploads/2024/10/gitm_2024b.jpg)
+![GITM](https://streetkonect.com/cdn-cgi/image/width=500/https://streetkonect.com/storage/kolown/gitm2024/gitm1.jpg)
 
-![IRL](https://archive.kolown.net/wp-content/uploads/2024/10/gitm_2024.jpg)
+![GITM](https://streetkonect.com/cdn-cgi/image/width=500/http://streetkonect.com/storage/kolown/gitm2024/gitm2.jpg)
 
