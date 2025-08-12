@@ -7,11 +7,12 @@ The project draws inspiration from:
 ---
 **Past Iterations**
 - Long Distance / Gallery TPW, Toronto, 2024
+![POW](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/pow_series/toronto/kamias1.png)
 
 ---
 
 - Island Time / Jane Lombard Gallery (NY) 2023
-![GITM](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/pow_series/ny/_DSC8961.jpg)
+![POW](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/pow_series/ny/_DSC8961.jpg)
 
 ---
 
