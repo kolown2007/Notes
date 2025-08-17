@@ -1,6 +1,6 @@
 
 The word TradeWinds derived from the wind that powered the European Colonial expansion. While galleon trades relied on wind and nature.
-TradeWinds on the other hand is built on top of modern web technologies and the internet. 
+TradeWinds Series on the other hand is built on top of the internet. 
 
 **The project consists of two components:**
 
@@ -10,3 +10,19 @@ webapp to control the screen.
 Audiences can interact to the installation in real-time using their phones.  
 
 The **TradeWinds** series experiments on how images and thoughts in contemporary times are shared, generated, processed, and saturated.
+
+---
+- TradeWinds 
+
+
+- TradeWinds: Meteor Garden
+![PierUno](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/tradewinds_series/tradewinds2.png)
+
+
+
+- TradeWinds: Pier Uno
+![PierUno](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/tradewinds_series/pieruno.jpg)
+
+- TradeWinds Four
+- TradeWinds: Ghost_in_the_machine
+- TradeWinds: GhostWriter

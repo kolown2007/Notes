@@ -1,16 +1,6 @@
 
+----
+**Climaglow** is an electronic system and visual language that visualizes weather data through an abstract lighting display. 
+The project will develop prototypes and create an abstract language system that corresponds to both real-time and historical weather data. Our aim is to present an alternative, intuitive, and artistic visual language, offering a contrast to the conventional numerical data displayed on phone screens. Additionally, we plan to construct affordable hardware using inexpensive components and found objects, alongside more refined materials.
 
-**Introduction:**
-ClimaGlow is a project that explores the intersection of art, technology, and environmental science. By utilizing both historical and real-time weather data, we aim to craft artistic objects and installations that not only captivate audiences but also raise awareness about global climate change.
-
-**Project Description:**
-The core of ClimaGlow lies in its unique approach to data visualization. Our artworks are brought to life through DIY electronic screens, which dynamically display weather patterns and climate data. These installations serve as both aesthetic experiences and educational tools, encouraging viewers to engage with the pressing issue of climate change.
-
-**Global Climate Change Context:**
-Climate change is a global crisis that affects every corner of the planet. Rising temperatures, extreme weather events, and shifting ecosystems are just a few of the challenges we face. Through ClimaGlow, we aim to highlight these issues and inspire action by making the invisible impacts of climate change visible and tangible.
-
-**Proponents:**
-The project is spearheaded by a team of artists and technologists from the Philippines, a country that is particularly vulnerable to the effects of climate change. Our diverse backgrounds and shared passion for environmental advocacy drive our commitment to this project.
-
-
-
+The effects of climate change have introduced unpredictable weather patterns, which have become the new normal. In response, we aim to leverage existing technology, such as real-time data accessible via the internet, and the availability of affordable electronic hardware. By doing so, Climaglow seeks to create a dynamic and engaging way to understand and interact with weather data, making it more accessible and meaningful in our daily lives.

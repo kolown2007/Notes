@@ -32,7 +32,10 @@ DIN - gpio25 -->
 
 ![px](https://wiki.geekworm.com/images/thumb/3/30/NodeMCU-Specification.jpg/600px-NodeMCU-Specification.jpg)
 
-
+- MOSI - pin 23
+- MISO - pin 19
+- CLK - pin 18
+- CS - pin 5
 ----
 https://strudel.cc/workshop/first-sounds/
 
@@ -100,3 +103,15 @@ https://nbrosowsky.github.io/tonejs-instruments/demo.html
 
 audio files
 https://github.com/Tonejs/audio
+
+
+
+----
+
+SD card module
+https://www.electronicwings.com/esp32/microsd-card-interfacing-with-esp32
+
+- MOSI - pin 23
+- MISO - pin 19
+- CLK - pin 18
+- CS - pin 5
