@@ -17,11 +17,12 @@ The **TradeWinds** series experiments on how images and thoughts in contemporary
 
 - TradeWinds: Meteor Garden
 ![PierUno](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/tradewinds_series/tradewinds2.png)
-
+https://dac.taipei/en/project/10000-flowers/
 
 
 - TradeWinds: Pier Uno
 ![PierUno](https://streetkonect.com/cdn-cgi/image/width=800/https://streetkonect.com/storage/kolown/tradewinds_series/pieruno.jpg)
+Visayas Art Fair 2022
 
 - TradeWinds Four
 - TradeWinds: Ghost_in_the_machine
