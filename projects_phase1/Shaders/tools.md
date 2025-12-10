@@ -5,3 +5,6 @@
 - https://viewerconfig.babylonjs.com/
 - https://retejs.org/
 - https://github.com/hacksider/Deep-Live-Cam
+
+readings:
+book of shaders

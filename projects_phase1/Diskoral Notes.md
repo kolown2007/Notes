@@ -5,11 +5,13 @@ we are slowly migrating to this notes from IG stories, on paper and other source
 ---
 sound movements in vis-min
 
-- waray cha-cha (eastern visayas)
+
 - ragatak (western visayas)
-- budots (davao)
 - bombtek 
+- waray cha-cha (eastern visayas)
+
 - bisrock/bispop (cebu)
+- - budots (davao)
 
 
 

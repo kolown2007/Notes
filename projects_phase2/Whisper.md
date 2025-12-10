@@ -115,3 +115,25 @@ https://www.electronicwings.com/esp32/microsd-card-interfacing-with-esp32
 - MISO - pin 19
 - CLK - pin 18
 - CS - pin 5
+
+---
+lightweight radio stations
+- https://kolown.net/api/dropcall/publish?url=http://stream.radioparadise.com/
+- http://live-bauerno.sharp-stream.com/simulcast3_no.mp3
+- https://kolown.net/api/dropcall/publish?url=http://soundsystem.stream.laut.fm/soundsystem
+
+32
+http://eilo.org/ambient
+
+
+96Kbit/s
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+
+
+https://kolown.net/audiolib/bluetooth_pair.mp3
+https://kolown.net/audiolib/bluetooth_connected.mp3
+
+
+catalog of stream url
+- https://streamurl.link/
+

@@ -24,8 +24,7 @@ Gab Ferrer, Dumaguete
 **SugalBall**, Tsarlyboy - Laguna
   - will explore a basketball betting game. reflects the Filipinos passion on basketball and the rise of online betting sites.
 
-**Iterations Online** - Rhaz Oriente, Manila
-  - generative poetry project
+
 
 Dev Team:
 Roan Alvarez 
