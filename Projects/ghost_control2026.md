@@ -1,6 +1,6 @@
 
 
-**ghost_control** is the fourth iteration of the _ghost_projects_ series (2024 to present). Earlier works include _Ghost_in_the_Machine_ (2024, Leeum Museum of Art), _GhostWriter_ (2024–2025, Ateneo Art Gallery), and _GhostWhisper_ (2025, QC, ESC, and Thailand Biennales).
+**ghost_control** is the fourth iteration of the _ghost_projects_ series (2024 to present). Earlier works include _Ghost_in_the_Machine_ (2024, Leeum Museum of Art), _GhostWriter_ (2024 - 2025, Ateneo Art Gallery), and _GhostWhisper_ (2025, QC, ESC, and Thailand Biennales).
 
 _ghost_projects_ investigates the hidden algorithms shaping everyday life in the age of a global internet.
 
