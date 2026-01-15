@@ -1,4 +1,4 @@
- _Philippine_Collagian_ is a web-based looping collage generator. Since its inception in 2019, the project has undergone multiple iterations and spawned complex spinoffs.
+ **Philippine_Collagian** is a web-based looping collage generator. Since its inception in 2019, the project has undergone multiple iterations and spawned complex spinoffs.
 
 While the present era is defined by photorealistic image generation, this chapter turns deliberately toward its earliest impulses, embracing fragments and street-level tactility. 
 
