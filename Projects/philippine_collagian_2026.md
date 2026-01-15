@@ -4,4 +4,4 @@ While the present era is defined by photorealistic image generation, this chapte
 
 Unlike the predictable outputs of AI systems, here the process begins with a hint of the base sources such as photographs and scans of ordinary street fragments such as papers, posters, tarps, markings, and advertisements, but chance and algorithmic distribution transform them into unexpected forms. 
 
-These fragments are arranged into a looping collage that echoes the textures of the street.
+These fragments are arranged into a looping collage that echoes the textures of the Philippine streets.
