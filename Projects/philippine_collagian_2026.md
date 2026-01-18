@@ -15,3 +15,8 @@ you can access the 2026 iteration here : https://p1sonet.kolown.net/
 
 note: the site assets is still on progress and will be adding more images every other day. 
 Thank You!!!
+
+---
+**About KoloWn**
+
+KoloWn, is a multi-faceted entity (est. 2007, Cebu PH) that encompasses an artist, human network, protocols, web apps, and future forms.
