@@ -20,6 +20,10 @@ there is an option to install it as PWA, it is convenient if we don't want to ty
 
 - on the address bar of the browser click Install
 
+**to fullscreen**
+
+ - press F11
+
 
 note: the site assets is still on progress and will be adding more images every other day. 
 Thank You!!!
