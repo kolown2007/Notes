@@ -13,6 +13,14 @@ These fragments are arranged into a looping collage that echoes the textures of 
 
 you can access the 2026 iteration here : https://p1sonet.kolown.net/
 
+for presentation you can use the URL and a browser but
+there is an option to install it as PWA, it is convenient if we don't want to type the URL every time we open the site.
+
+**to install**
+
+- on the address bar of the browser click Install
+
+
 note: the site assets is still on progress and will be adding more images every other day. 
 Thank You!!!
 
