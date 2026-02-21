@@ -25,5 +25,4 @@ https://dac.taipei/en/project/10000-flowers/
 Visayas Art Fair 2022
 
 - TradeWinds Four
-- TradeWinds: Ghost_in_the_machine
-- TradeWinds: GhostWriter
+
