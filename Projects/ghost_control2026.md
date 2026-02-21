@@ -10,6 +10,8 @@ In **ghost_control**, a crate-like structure contains a work-from-home environme
 
 The work reflects on the shifting conditions of contemporary labor, where the boundaries of home and factory dissolve. Remote work, digital nomadism, and platform-driven economies form the backdrop for this exploration of productivity, intimacy, and control.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_7lARgm5Ig?si=UkOsPyPGa3z-BW0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ----
 https://futurism.com/advanced-transport/waymos-controlled-workers-philippines
 
