@@ -1,10 +1,21 @@
 ### Colors of the Wind 
 
-- **Version 1** (2021) An online experiment by KoloWn that tapped into real-time environmental data from third-party sources, visualized through a dynamic web interface.
+ **Version 1** (2021-2022)
+  An online experiment by KoloWn that tapped into real-time environmental data from third-party sources, visualized through a dynamic web interface.
+  
+![CODW](https://streetkonect.com/storage/kolown/codw/codw1.jpg)
 
-- **Version 2** (2023) Translated into a physical installation at Ninuno Gallery in 2023, called **Stations**. Inspired by rural antennas and street barricades, this iteration explored how infrastructure can become both signal and sculpture.
+---
 
-- **Version 3 (Upcoming)** A hybrid approach that integrates real-time weather data from PAG-ASA with custom-built systems. This version will extend the project’s dialogue between digital streams and physical presence, shaping a new interface where climate information becomes both tangible and poetic.
+ **Version 2** (2023) 
+ Translated into a physical installation at Joya Gallery (Cebu), Punlaan Art Space(Cavite), Ninuno Gallery(QC) in 2023, called **Stations**. Inspired by rural antennas and street barricades, this iteration explored how infrastructure can become both signal and sculpture.
+ 
+![CODW](https://streetkonect.com/storage/kolown/codw/stations.jpg)
+
+----
+
+
+ **Version 3 (Upcoming)** A hybrid approach that integrates real-time weather data from PAG-ASA with custom-built systems. This version will extend the project’s dialogue between digital streams and physical presence, shaping a new interface where climate information becomes both tangible and poetic.
 
 ### **Colors of the Wind — Version 3**
 
