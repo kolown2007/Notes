@@ -1,6 +1,7 @@
 
 
 P1sonet2022 was part of the 2021 Thirteen Artists Awards Exhibition at the Cultural Center of the Philippines.
+
 The exhibition was curated by Shireen Seno.
 
 ----
