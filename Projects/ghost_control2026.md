@@ -4,7 +4,7 @@ _ghost_projects_ investigates the hidden algorithms shaping everyday life in the
 
 Earlier works include:
 - Ghost_in_the_Machine (2024, Leeum Museum of Art)
-- GhostWriter (2024–2025, Ateneo Art Gallery)
+- GhostWriter (2024–2025,Ateneo Art Gallery)
 - GhostWhisper (2025, QC, ESC, and Thailand Biennales)
 
 ----
@@ -30,10 +30,9 @@ The physical environment of the installation is populated with **toys that are s
 -----
 ### Software and Components
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/A_7lARgm5Ig?si=UkOsPyPGa3z-BW0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- *chrono escape 2050 visuals* 
-
 **_Parallel: Chrono Escape 2050_** is a featured game within the installation _Ghost_Control2026_. It explores the concept of the **predestination paradox**, immersing audiences in a time-bending conflict where their actions both shape and seal the fate of the future.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/A_7lARgm5Ig?si=UkOsPyPGa3z-BW0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> *chrono escape 2050 visuals* 
 
 **Player Roles**
 
@@ -43,11 +42,13 @@ The physical environment of the installation is populated with **toys that are s
 
 - **Game Masters**: They can both **speed up the USB's movement** and **add obstacles** to challenge the Green Team's progress.
 
+----
 
 ### Audience Interaction
 All controls are accessed through a **web app**. Audience members scan a QR code with their phones, which assigns them to a faction and allows them to influence the unfolding narrative in real time.
 
 -----
+### References
 
 - https://futurism.com/advanced-transport/waymos-controlled-workers-philippines
 - https://people.com/waymo-exec-reveals-company-uses-operators-in-the-philippines-to-assist-autonomous-vehicles-11900507
