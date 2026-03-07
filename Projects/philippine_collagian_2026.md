@@ -9,6 +9,30 @@ Unlike the predictable outputs of AI systems, here the process begins with a hin
 These fragments are arranged into a looping collage that echoes the textures of the Philippine streets.
 
 ------
+
+mounted:
+
+**2026**
+Transmediale
+Berlin Germany
+https://transmediale.de/en/2026/page/cyber-spaces
+https://transmediale.de/en/2026/people/kolown
+
+**2020**
+Philippine Collagian 2020
+Mabini Art Gallery
+
+**2019**
+Kiat-Kiat Projects Show
+
+-----
+Spinoffs:
+
+- Brunswick Project (Australia)
+- TradeWinds (Canada)
+
+----
+
 **technical details:**
 
 you can access the 2026 iteration here : https://p1sonet.kolown.net/
@@ -23,7 +47,6 @@ there is an option to install it as PWA, it is convenient if we don't want to ty
 **to fullscreen**
 
  - press F11
-
 
 note: the site assets is still on progress and will be adding more images every other day. 
 Thank You!!!
