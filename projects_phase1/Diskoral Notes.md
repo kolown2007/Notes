@@ -1,9 +1,8 @@
-These are random notes that we started in 2019 as part of our research on Diskoral.
-We also want other to contribute to this so that it wont be biased and one-sided. 
+These are random notes that we started in 2019 as part of our research on Diskoral. We also want others to contribute to this so that it won't be biased and one-sided.
 
-While we appreciate various researchers from abroad and Manila, it is important also to get other sides like the people actually living in the Visayas and Mindanao areas.
+While we appreciate contributions from various researchers from abroad and Manila, it is also important to include perspectives from people actually living in the Visayas and Mindanao areas.
 
-This note is not an actual thesis but could help guide future researchers that are interested in the topic and could offer them a wider perspective on the complexity of this topic. 
+This note is not an actual thesis but could help guide future researchers interested in the topic and offer them a wider perspective on its complexity.
 
 Contributors:
 - KoloWn
@@ -14,7 +13,7 @@ Contributors:
 sound movements in Visayas and Mindanao
 ### Bisaya Tekno
 
-- **ragatak** (western visayas) ragatak emerged as a sonic style especially in sound battles of Panay   Island. sound battles also exists in neigboring islands as 
+- **ragatak** (western visayas) emerged as a sonic style especially in sound battles of Panay   Island. sound battles also exists in neighboring islands
 
 - **bombtek** - is a higher bpm version of budots
 
