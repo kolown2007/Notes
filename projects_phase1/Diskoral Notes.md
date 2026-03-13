@@ -1,17 +1,28 @@
 These are random notes that we started in 2019 as part of our research on Diskoral.
-we are slowly migrating to this notes from IG stories, on paper and other sources.
+We also want other to contribute to this so that it wont be bias and one-sided. While we appreciate various researchers from abroad and Manila, it is important also to get other sides like the people actually living in the Visayas and Mindanao areas.
 
+This note is not an actual thesis but could help guide future researchers that are interested in the topic and could offer them a wider perspective on the complexity of this topic. 
+
+Contributors:
+KoloWn
+Mark Omega
+Saii
 
 ---
-sound movements in vis-min
+sound movements in Visayas and Mindanao
 
+### Bisaya Tekno
 
-- ragatak (western visayas)
-- bombtek 
-- waray cha-cha (eastern visayas)
+- **ragatak** (western visayas) ragatak emerged as a sonic style especially in sound battles of Panay   Island. sound battles also exists in neigboring islands as 
 
-- bisrock/bispop (cebu)
-- - budots (davao)
+- **bombtek** - is a higher bpm version of budots
+
+- **waray cha-cha** (eastern visayas) - this section needs a bigger reseach
+  this is a blend of the cha-cha, kuracha, and electronic music
+  the use of electronic keyboard in this style is very similar to dangdut.
+  Famous artist is One Man Band of Biliran
+
+- **budots** (davao) - while mostly budots is attributed to DJ Love of Davao. We want also to note here the experimentation and remixing of various mixed clubs in Visayas and Mindanao that greatly evolved the music genre.
 
 
 
