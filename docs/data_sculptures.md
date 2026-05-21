@@ -1,3 +1,5 @@
+<font color="#00b0f0">conceptual phase</font>
+
 While in art the term "**data sculptures**" has been used to describe art that uses data to visualize either the digital or the physical, in this context, we use the term literally.
 
 Here, **Data_Sculptures** are "pico-data centers." Unlike traditional data sculptures that merely visualize information, these structures literally house it.
