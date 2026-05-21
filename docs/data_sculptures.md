@@ -1,8 +1,7 @@
 <font color="#00b0f0">conceptual phase</font>
 
-While in art the term "**data sculptures**" has been used to describe art that uses data to visualize either the digital or the physical, in this context, we use the term literally.
+While in art the term "data sculptures" describes works that visualize data in either a digital or physical medium, in our context, we use the term literally.
 
-Here, **Data_Sculptures** are "pico-data centers." Unlike traditional data sculptures that merely visualize information, these structures literally house it.
-Powered by renewable energy, our data_sculptures can be installed anywhere.
+Here, data_sculptures are "pico-data centers" that house data just like industrial facilities do. Powered by renewable energy, they can be installed anywhere. 
 
-This stands in contrast to the latest capitalist bubble trend of building massive data centers. These computers are just counting unlimited sheep rather than solving real-world problems, to the extent that they are now contributing to the global climate crisis.
+This stands in sharp contrast to the latest capitalist bubble trend of over-building massive data centers. While data infrastructure has real uses, too many modern facilities are just counting unlimited sheep rather than solving real-world problems, to the extent that they are now contributing directly to the global climate crisis.
