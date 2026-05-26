@@ -1,0 +1,1 @@
+In cloud computing, the term “compute” describes concepts and objects related to software computation. It is a generic term used to reference processing power, memory, networking, storage, and other resources required for the computational success of any program.( https://aws.amazon.com/what-is/compute/)
