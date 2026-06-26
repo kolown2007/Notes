@@ -1,0 +1,3 @@
+Dynamic Time Warping (DTW) is an algorithm used to measure the similarity between two temporal sequences that may vary in speed. It is particularly useful for time series analysis, where the sequences can be of different lengths or have different time scales. 
+
+DTW aligns the sequences in a way that minimizes the distance between them, allowing for elastic shifts in the time dimension. This makes it effective for applications like speech recognition, gesture recognition, and any domain where time-dependent data needs to be compared.
