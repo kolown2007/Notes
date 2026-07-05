@@ -13,6 +13,10 @@ https://www.metmuseum.org/art/collection/search/856282
 ![landscape](https://collectionapi.metmuseum.org/api/collection/v1/iiif/904034/2246565/main-image)
 https://www.metmuseum.org/art/collection/search/904034
 
+![](https://collectionapi.metmuseum.org/api/collection/v1/iiif/53223/1630977/main-image)
+https://www.metmuseum.org/art/collection/search/53223
+
+
 ![chinese](https://collectionapi.metmuseum.org/api/collection/v1/iiif/49608/156871/restricted)
 https://www.metmuseum.org/art/collection/search/49608
 
