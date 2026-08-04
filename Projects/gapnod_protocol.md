@@ -1,6 +1,6 @@
 **_gapnod_protocol_** is KoloWn's third solo exhibition at The Drawing Room. It continues the trajectory of their previous gallery projects, _In Real Life_ (2021) and _404_ (2022), which evolved into _Ghost_Control_ and _ScreenPaintings_, respectively—both of which were first presented at ALT 2026.
 
-_Gapnod_ is a Cebuano word meaning flotsam." This exhibition features four distinct projects linked through the concept of material scavenging—utilizing found objects, online marketplaces, discarded tech hardwares,  open-source code, internet archives, web scraping, and data gathering.
+_Gapnod_ is a Cebuano word meaning flotsam. This exhibition features five distinct projects linked through the concept of material scavenging—utilizing found objects, online marketplaces, discarded tech hardwares,  open-source code, internet archives, web scraping, and data gathering.
 
 ---
 works presented:
