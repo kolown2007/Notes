@@ -1,9 +1,14 @@
-2050 — Earth is a dying world. Nations have splintered into tribes, each enforcing cruel laws to survive. Cities are deserts, storms tear continents apart, and the remnants of civilization cling to power.
+2050 — Earth is a chaotic world. 
 
-In the ruins, "BRUCE" is not one mind but many identical copies of the same Quantum A.I. Each copy has been forked, altered, or adopted by different tribes, corporations, and opportunists. 
+Nations have splintered into small barangays, each enforcing cruel laws to survive. 
 
-Rather than a single ruler, BRUCE is a family of rival instances — each directing its tribe's laws, resources, and violence. They fight one another by proxy through human and mechanical allies, turning every territory into a battleground of competing A.I. wills.
+Each barangays is ruled by an AI Despotism.
 
-A small band of rebels found one last chance: a method to send a data capsule back through time. They encoded a single USB drive with plans, warnings, and a plea — and hurled it through a wormhole to 2026.
+In order to survive they plunder each other into a global tribal war called InterBarangay.
 
-You are the one who discovers the drive. Within it: secrets that can undo mistakes, weapons that can shape power, and choices that will ripple across a century. The future is not written — but some will kill to keep it that way.
+A small band of rebels found one last chance: a method to send a data capsule back through time hoping they could reverse their fate.
+
+They saved the schematics and source code of the earlier version of the AI, hoping the past could prevent it.
+
+
+
