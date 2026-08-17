@@ -5,9 +5,10 @@ _Gapnod_ is a Cebuano word meaning flotsam. This exhibition features five distin
 ---
 works presented:
 
-**_Parallel: Chrono Escape 2050_** is a game developed as part of the _GhostControl_ project, which premiered at ALT Philippines 2026. The narrative centers on a USB drive sent back from the year 2050 to 2026 through a wormhole, with participants using various real-time controllers to navigate the gameplay.
 
 **Screen Paintings:** explores painting in the age of screen-first reality and how it affects the concept, process, and technique of contemporary painting.
+
+**_Parallel: Chrono Escape 2050_** is a game developed as part of the GhostControl project, which premiered at ALT Philippines 2026. The narrative centers on a USB drive sent back from the year 2050 to 2026 through a wormhole, with participants using various real-time controllers to navigate the gameplay. Built entirely using open-source technology, the game's visual assets are synthesized from 3D-scanned objects, street photography, public posters, and original works from the _Screen Paintings_ series.
 
 **Souvenir Surplus:** is a project speculating on artifacts from worlds that don't exist. Inspired by tourism memorabilia, it fabricates magnetic objects, faux ruins, and fictional relics from alternate timelines and spaces. Ultimately, the project treats these pieces as tangible memories of the never-have-been.
 
