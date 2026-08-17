@@ -5,13 +5,13 @@ _Gapnod_ is a Cebuano word meaning flotsam. This exhibition features five distin
 ---
 works presented:
 
-**Ghost_Control:**  a crate-like structure contains a work-from-home environment setup with screens, lights, and sound. The screens show games, dashboard graphics, and video fragments. Visitors can interact with the installation through their phones.
+**_Parallel: Chrono Escape 2050_** is a game developed as part of the _GhostControl_ project, which premiered at ALT Philippines 2026. The narrative centers on a USB drive sent back from the year 2050 to 2026 through a wormhole, with participants using various real-time controllers to navigate the gameplay.
 
-**Screen Paintings:** explores painting in the age of screen-first reality and how it **affects** the concept, process, and technique of contemporary painting.
+**Screen Paintings:** explores painting in the age of screen-first reality and how it affects the concept, process, and technique of contemporary painting.
 
 **Souvenir Surplus:** is a project speculating on artifacts from worlds that don't exist. Inspired by tourism memorabilia, it fabricates magnetic objects, faux ruins, and fictional relics from alternate timelines and spaces. Ultimately, the project treats these pieces as tangible memories of the never-have-been.
 
-**Walay_Katapusan:** a doomscrolling video installation featuring video and images sourced from internet clippings.
+**Walay_Katapusan:** a doom scrolling video installation featuring video and images sourced from internet clippings.
 
 **Data_Sculpture:** a "micro-data centers" that gathers and houses data much like industrial facilities, but instead powered by renewable energy and can be installed anywhere.
 
