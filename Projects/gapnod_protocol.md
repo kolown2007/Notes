@@ -1,16 +1,15 @@
-**_gapnod_protocol_** is KoloWn's third solo exhibition at The Drawing Room. It continues the trajectory of their previous gallery projects, _In Real Life_ (2021) and _404_ (2022), which evolved into _Ghost_Control_(Alt 2026 projects) and _ScreenPaintings_(Alt 2026)
+**_gapnod_protocol_** is KoloWn’s third solo exhibition with The Drawing Room, following _In Real Life_ (2021) and _404_ (2022), as well as recent presentations of _GhostControl_ and _Screen Paintings_ at ALT Philippines 2026.
 
-_Gapnod_ is a Cebuano word meaning flotsam. This exhibition features five distinct projects linked through the concept of material scavenging by utilizing ready-made materials from both physical and digital spaces.
+Named after the Cebuano word for flotsam (_gapnod_), the exhibition brings together five projects linked through the practice of **material scavenging** across both physical and digital spaces.
 
 ---
 works presented:
 
-
-**Screen Paintings:** explores painting in the age of screen-first reality and how it affects the concept, process, and technique of contemporary painting.
+**Screen Paintings:** Plein air painting but in front of an Ipad? The project explores painting in the age of screen-first reality and how it affects the concept, process, and technique of contemporary painting.
 
 **_Parallel: Chrono Escape 2050_** is a game developed as part of the GhostControl project, which premiered at ALT Philippines 2026. The narrative centers on a USB drive sent back from the year 2050 to 2026 through a wormhole, with participants using various real-time controllers to navigate the gameplay. Built entirely using open-source technology, the game's visual assets are synthesized from 3D-scanned objects, street photography, public posters, and original works from the _Screen Paintings_ series.
 
-**Souvenir Surplus:** is a project speculating on artifacts from worlds that don't exist. Inspired by tourism memorabilia, it fabricates magnetic objects, faux ruins, and fictional relics from alternate timelines and spaces. Ultimately, the project treats these pieces as tangible memories of the never-have-been.
+**Souvenir Surplus:** is a project speculating on artifacts from worlds that don't exist. Inspired by tourism memorabilia, it fabricates magnetic objects, faux ruins, and fictional relics from alternate timelines and spaces. Ultimately, the project treats these pieces as tangible memories of the never-have-been. The objects are made from found stryrofoam, marine epoxy, acrylic and acrylic paste.
 
 **Walay_Katapusan:** a doom scrolling video installation featuring video and images sourced from internet clippings.
 
