@@ -1,4 +1,20 @@
-
+---
+title: Third World Compute
+slug: third_world_compute
+date: 2026-09-27
+lastmod: 2026-09-27
+status: published
+draft: false
+topics:
+tags:
+  - compute
+  - hardware
+description: exploring tech waste
+cover_image:
+alt_text:
+layout: note
+featured: false
+---
 This material exploratory project utilizes both the limitations and the abundance of resources, employing alternative processes to create "non-big-tech" objects. 
 The work is deeply inspired by our personal experiences of consuming and reinterpreting discarded goods from so-called "First World Countries."
 
